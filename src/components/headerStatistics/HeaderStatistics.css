@@ -1,0 +1,38 @@
+
+#list_statistics_wrapper {
+	width: 70px;
+	height: 100px;
+	padding-left: 2px;
+	font-size: 10px;
+	
+}
+
+.header_menu_statistics_cont {
+/*	height: 16px;*/
+	width: 70px;
+	margin-left: 5px;
+    font-family: "Open Sans";
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: blue;
+    text-decoration: none;	
+}
+
+.header_menu_statistics_cont:hover  {
+	background-color: yellow;
+	color: red;
+
+}	
+
+#header_menu_statistics {
+	width: 70px;
+	margin-top: 5px;
+}
+
+#header_menu_statistics_cont_id {
+	width: 70px;
+	height: 20px;
+	top: 10px;
+	margin-left: 5px;
+}

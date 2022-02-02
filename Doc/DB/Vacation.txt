@@ -1,0 +1,68 @@
+//DB of Vacation
+db.Vacation.insertOne(
+db.Vacation.updateOne({_id: 2}, {$set: {phrases: "- Girl, why do you smoke?</br> - I`m trying to kill the horse try "}})
+db.Vacation.replaceOne({_id: 16}, {
+'_id': 16,
+'name': 'Quarantine',  
+'phrases': ['A case of coronavirus was recorded: the wife strangled her husband on the fifth day of quarantine.']
+})
+
+{
+'_id': 1,
+'name': 'Trip',  
+'phrases': ['- A short trip to a certain place. Trip most often occurs on the same day: both departure and return. For example, if you, having arrived on vacation, stayed at a hotel and go on various excursions every day, these are trips (to). We also use the word trip when we talk about minor trips: there and back:', 'business trip –  official journey;', 'day trip - one day trip', 'overnight trip - overnight trip']
+}
+
+{
+'_id': 2,
+'name': 'Journey',  
+'phrases': ['- It is usually a longer and more distant trip than a trip. The word journey is not used for short and insignificant trips. In a broad sense, the noun journey denotes a road or path:', 'five-day journey;', 'long journey - long road;', 'safe journey - safe road', 'dangerous journey - dangerous path']
+}
+
+{
+'_id': 3,
+'name': 'Tour',  
+'phrases': ['- A trip that involves visiting different places over a period of time and returning to the starting point. For example, it can be visiting several cities with a tour or sightseeing:', 'international tour;', 'four-country tour;', 'official tour;', 'sightseeing tour - excursion for sightseeing']
+}
+
+{
+'_id': 4,
+'name': 'Voyage',  
+'phrases': ['- Movement, travel in general, and not any specific trip. This word has the broadest meaning of all of the above. Travels - travel, wandering, long trip with visits to various places or frequent trips:', 'sea voyage;', 'transatlantic voyage;','maiden voyage - first voyage, first voyage of a new ship']
+}
+
+{
+'_id': 5,
+'name': 'Cruise',  
+'phrases': ['- Cruise, the same as a tour, but on a ship: visiting several places in a certain time:', 'go on a cruise;', 'cruise around the islands of the Caribbean;', 'world cruise - round the world boat trip']
+}
+
+{
+'_id': 6,
+'name': 'Travel',  
+'phrases': ['- Movement, travel in general, and not any specific trip. This word has the broadest meaning of all of the above. Travels - travel, wandering, long trip with visits to various places or frequent trips:', 'As a result of his foreign travels, he learnt a lot about different cultures.', 'Travel tickets.', 'Travel agency.', 'Travel arrangements.']
+}
+
+{
+'_id': 7,
+'name': '',  
+'phrases': ['']
+}
+
+{
+'_id': 8,
+'name': '',  
+'phrases': ['']
+}
+
+{
+'_id': 9,
+'name': '',  
+'phrases': ['']
+}
+
+{
+'_id': 10,
+'name': '',  
+'phrases': ['']
+}

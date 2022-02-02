@@ -1,0 +1,39 @@
+// Statistics
+
+Statistics table
+
+Table colums:
+all inputs   - number of users who opened this section
+meen  - the average value of user rating for the quality of this section of the site
+min   - the minimum value of user rating for the quality of this section of the site
+max   - the maximum value of user rating for the quality of this section of the site
+
+Table rows:
+Tests
+Words
+Listen
+Phrases
+Jokes
+Statistics
+
+
+Input form
+
+Please enter your quality control of the sections of the site below. 
+This will improve the quality of the site. Thank you.
+
+Tests       (1,2,3,4,5)
+Words       (1,2,3,4,5)
+Listen      (1,2,3,4,5)
+Phrases     (1,2,3,4,5)
+Jokes       (1,2,3,4,5)
+Statistics  (1,2,3,4,5)
+
+Your comments:
+
+Textarea
+
+Submit
+
+
+

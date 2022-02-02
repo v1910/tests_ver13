@@ -1,0 +1,11 @@
+//DB of all_input_sections - all inputs in every section
+
+{
+    _id: 0,
+    all_input_tests: 0,
+    all_input_words: 0,
+    all_input_listen: 0,
+    all_input_phrases: 0,
+    all_input_jokes: 0,
+    all_input_statistics: 0,
+}

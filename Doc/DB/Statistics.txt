@@ -1,0 +1,24 @@
+//DB of Statistics
+db.Statistics.insertOne(
+db.Statistics.updateOne({_id: 2}, {$set: {phrases: "- Girl, why do you smoke?</br> - I`m trying to kill the horse try "}})
+db.Statistics.replaceOne({_id: 16}, {
+'_id': 16,
+'name': 'Quarantine',  
+'phrases': ['A case of coronavirus was recorded: the wife strangled her husband on the fifth day of quarantine.']
+})
+
+{
+'_id': 1,
+'tests': 0,  
+'words': 0,
+'listen': 0,
+'phrases': 0,
+'jokes': 0,
+'statistics': 0,
+'comments': '',
+'ip-address': ''
+}
+
+
+
+
